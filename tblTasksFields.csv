@@ -1,0 +1,248 @@
+TaskFieldD,FieldName,FieldOrder,DisplayOrder,Label1,Label2,Label3,Flag,F9,Group
+-2143629518,DD5_04,70,150,Degree-days above 5 deg C,April (mm),growing degree-days,0,0,Monthly
+-2113721533,Tmax09,27,95,Temperature max,September ( deg C),,0,0,Monthly
+-2084351942,RH08,242,238,Relative humidity,August,,0,0,Monthly
+-2061850604,DD_18_06,84,164,Degree-days below 18 deg C,June (mm),heating degree-days ,0,0,Monthly
+-2041423190,NFFD08,110,190,the number of frost-free days,August,,0,0,Monthly
+-2032297492,DD5_sp,172,48,Spring Degree-days above 5 deg C,growing degree-days,,0,0,Seasonal
+-2024667592,DD18_06,96,176,Degree-days above 18 deg C,June (mm),cooling degree-days,0,0,Monthly
+-2017419719,Tave07,13,81,Temperature avg,July ( deg C),,0,0,Monthly
+-2003465350,DD18_04,94,174,Degree-days above 18 deg C,April (mm),cooling degree-days,0,0,Monthly
+-1978471456,DD_0_sp,168,44,Spring Degree-days below 0 deg C,chilling degree-days,,0,0,Seasonal
+-1976862771,CMD03,141,221,Hargreaves climatic moisture deficit ,March,,0,0,Monthly
+-1975129602,PPT12,54,122,Precipitation,December (mm),,0,0,Monthly
+-1962701734,Tave04,10,78,Temperature avg,April ( deg C),,0,0,Monthly
+-1939461185,PAS_wt,187,39,Winter precipitation as snow,,,0,0,Seasonal
+-1936387067,PAS_sm,189,41,Summer precipitation as snow,,,0,0,Seasonal
+-1915084632,MAP,1,5,Annual precipitation(mm),,,1,0,Annual
+-1913530961,DD18_09,99,179,Degree-days above 18 deg C,September (mm),cooling degree-days,0,0,Monthly
+-1890518963,Tmax07,25,93,Temperature max,July ( deg C),,0,0,Monthly
+-1843766459,CMD11,149,229,Hargreaves climatic moisture deficit ,November,,0,0,Monthly
+-1829310657,DD_18_05,83,163,Degree-days below 18 deg C,May (mm),heating degree-days ,0,0,Monthly
+-1807573033,PAS09,123,203,Precipitation as snow (prev August - current July),September (mm),,0,0,Monthly
+-1801050432,PAS06,120,200,Precipitation as snow (prev August - current July),June (mm),,0,0,Monthly
+-1797125854,CMD12,150,230,Hargreaves climatic moisture deficit ,December,,0,0,Monthly
+-1757743244,PAS02,116,196,Precipitation as snow (prev August - current July),February (mm),,0,0,Monthly
+-1748922109,DD_18_01,79,159,Degree-days below 18 deg C,January (mm),heating degree-days ,0,0,Monthly
+-1741494690,DD5_08,74,154,Degree-days above 5 deg C,August (mm),growing degree-days,0,0,Monthly
+-1737227876,Eref_sp,192,64,Spring Hargreaves reference evaporation,,,0,0,Seasonal
+-1667173983,RH03,237,233,Relative humidity,March,,0,0,Monthly
+-1658679435,DD18_11,101,181,Degree-days above 18 deg C,November (mm),cooling degree-days,0,0,Monthly
+-1609327881,DD18_01,91,171,Degree-days above 18 deg C,January (mm),cooling degree-days,0,0,Monthly
+-1603146820,DD5_10,76,156,Degree-days above 5 deg C,October (mm),growing degree-days,0,0,Monthly
+-1556004875,DD18_sm,181,57,Summer Degree-days above 18 deg C,cooling degree-days,,0,0,Seasonal
+-1550863231,FFP,209,14,Frost-free period,,,0,0,Annual
+-1549688229,DD_0_01,55,135,Degree-days below 0 deg C,January (mm),chilling degree-days,0,0,Monthly
+-1511523646,PAS04,118,198,Precipitation as snow (prev August - current July),April (mm),,0,0,Monthly
+-1498384698,DD_0_12,66,146,Degree-days below 0 deg C,December (mm),chilling degree-days,0,0,Monthly
+-1497895006,Tmin04,34,102,Temperature min,April ( deg C),,0,0,Monthly
+-1478237873,Tave_wt,159,23,Winter average temperature ( deg C),,,0,0,Seasonal
+-1468590882,Tmax_at,154,30,Fall max. temperature ( deg C),,,0,0,Seasonal
+-1421920839,Eref03,129,209,Hargreaves reference evaporation,March,,0,0,Monthly
+-1405217155,DD5_sm,173,49,Summer Degree-days above 5 deg C,growing degree-days,,0,0,Seasonal
+-1397454533,DD_18_09,87,167,Degree-days below 18 deg C,September (mm),heating degree-days ,0,0,Monthly
+-1387720146,DD_0_04,58,138,Degree-days below 0 deg C,April (mm),chilling degree-days,0,0,Monthly
+-1382112040,DD_0_10,64,144,Degree-days below 0 deg C,October (mm),chilling degree-days,0,0,Monthly
+-1356778226,DD_0_at,170,46,Fall degree-days below 0 deg C,chilling degree-days,,0,0,Seasonal
+-1328249411,RH07,241,237,Relative humidity,July,,0,0,Monthly
+-1292019765,DD5_05,71,151,Degree-days above 5 deg C,May (mm),growing degree-days,0,0,Monthly
+-1253060077,Eref,212,20,Hargreaves reference evaporation,,,0,0,
+-1220683434,NFFD12,114,194,the number of frost-free days,December,,0,0,Monthly
+-1206603603,MWMT,5,2,Mean warmest month( deg C),,,1,0,Monthly
+-1201678720,NFFD,206,13,Number of frost-free days,,,0,0,Annual
+-1156010625,Tmin01,31,99,Temperature min,January ( deg C),,0,0,Monthly
+-1117064569,DD5_09,75,155,Degree-days above 5 deg C,September (mm),growing degree-days,0,0,Monthly
+-1059536650,DD_18_04,82,162,Degree-days below 18 deg C,April (mm),heating degree-days ,0,0,Monthly
+-1057153567,DD_18_11,89,169,Degree-days below 18 deg C,November (mm),heating degree-days ,0,0,Monthly
+-1041606515,Tmin_sm,157,33,Summer min. temperature ( deg C),,,0,0,Seasonal
+-1006616886,Tmin_at,158,34,Fall min. temperature ( deg C),,,0,0,Seasonal
+-994493428,DD_0_06,60,140,Degree-days below 0 deg C,June (mm),chilling degree-days,0,0,Monthly
+-986047463,PPT03,45,113,Precipitation,March (mm),,0,0,Monthly
+-959371715,Tmin11,41,109,Temperature min,November ( deg C),,0,0,Monthly
+-952117617,Eref05,131,211,Hargreaves reference evaporation,May,,0,0,Monthly
+-947759587,DD_0_07,61,141,Degree-days below 0 deg C,July (mm),chilling degree-days,0,0,Monthly
+-946541611,Tave11,17,85,Temperature avg,November ( deg C),,0,0,Monthly
+-905933268,RH06,240,236,Relative humidity,June,,0,0,Monthly
+-894521975,MSP,2,6,Mean growing season precipitation (mm),(May-September),,0,0,Seasonal
+-858184023,CMD07,145,225,Hargreaves climatic moisture deficit ,July,,0,0,Monthly
+-854449540,CMD02,140,220,Hargreaves climatic moisture deficit ,February,,0,0,Monthly
+-850794167,CMD_sm,197,69,Summer Hargreaves climatic moisture deficit,,,0,0,Seasonal
+-836719749,Tmin05,35,103,Temperature min,May ( deg C),,0,0,Monthly
+-823750044,DD5_02,68,148,Degree-days above 5 deg C,February (mm),growing degree-days,0,0,Monthly
+-791586803,DD5_11,77,157,Degree-days above 5 deg C,November (mm),growing degree-days,0,0,Monthly
+-791058725,DD18,205,12,Degree-days above 18 deg C,cooling degree-days,,0,0,Annual
+-775294343,MAR,214,22,Mean annual solar radiation (MJ m-2d-1),,,0,0,Annual
+-739269142,Rad04,222,126,Radiation,April(MJ m-2d-1),,0,0,Monthly
+-735896925,TD,199,4,Continentality( deg C),(MWMT - MCMT),,0,0,
+-714671312,Tmax_sm,153,28,Summer max. temperature ( deg C),,,0,0,Seasonal
+-705059685,RH_wt,234,74.1,Relative humidity,winter,,0,0,Seasonal
+-692240880,NFFD02,104,184,the number of frost-free days,February,,0,0,Monthly
+-672155965,CMD05,143,223,Hargreaves climatic moisture deficit ,May,,0,0,Monthly
+-641666817,CMD09,147,227,Hargreaves climatic moisture deficit ,September,,0,0,Monthly
+-628920692,PAS,3,17,Annual snowfall (cm),prev August - current July,,0,0,Annual
+-583092639,DD_0_sm,169,45,Summer Degree-days below 0 deg C,chilling degree-days,,0,0,Seasonal
+-565008185,Tmax05,23,91,Temperature max,May ( deg C),,0,0,Monthly
+-543058470,PAS12,126,206,Precipitation as snow (prev August - current July),December (mm),,0,0,Monthly
+-511233766,DD_0_08,62,142,Degree-days below 0 deg C,August (mm),chilling degree-days,0,0,Monthly
+-504585918,Rad_at,215,74,Autumn solar radiation(MJ m-2d-1),,,0,0,Seasonal
+-480277756,PPT06,48,116,Precipitation,June (mm),,0,0,Monthly
+-465380876,Rad_sp,217,72,Spring solar radiation(MJ m-2d-1),,,0,0,Seasonal
+-456702095,Tmax_sp,152,29,Spring max. temperature ( deg C),,,0,0,Seasonal
+-454150485,NFFD01,103,183,the number of frost-free days,January,,0,0,Monthly
+-448878448,NFFD_sp,184,60,Spring frost-free days,,,0,0,Seasonal
+-432604089,CMD01,139,219,Hargreaves climatic moisture deficit ,January,,0,0,Monthly
+-420842244,Tmax06,24,92,Temperature max,June ( deg C),,0,0,Monthly
+-412143057,DD18_wt,179,55,Winter Degree-days above 18 deg C,cooling degree-days,,0,0,Seasonal
+-393115675,Rad_sm,216,73,Summer solar radiation(MJ m-2d-1),,,0,0,Seasonal
+-361928181,Tmax01,19,87,Temperature max,January ( deg C),,0,0,Monthly
+-345233556,DD18_02,92,172,Degree-days above 18 deg C,February (mm),cooling degree-days,0,0,Monthly
+-344653487,NFFD_sm,185,61,Summer frost-free days,,,0,0,Seasonal
+-319519357,PPT_wt,163,35,Winter precipitation (mm),,,0,0,Seasonal
+-301774188,PAS_sp,188,40,Spring precipitation as snow,,,0,0,Seasonal
+-300858676,PAS10,124,204,Precipitation as snow (prev August - current July),October (mm),,0,0,Monthly
+-291342305,PAS01,115,195,Precipitation as snow (prev August - current July),January (mm),,0,0,Monthly
+-280299310,PPT08,50,118,Precipitation,August (mm),,0,0,Monthly
+-251566119,DD18_07,97,177,Degree-days above 18 deg C,July (mm),cooling degree-days,0,0,Monthly
+-237922894,Tave_at,162,26,Fall average temperature ( deg C),,,0,0,Seasonal
+-208760169,eFFP,208,16,Julian date on which FFP ends,,,0,0,
+-190977049,Eref_wt,191,63,Winter Hargreaves reference evaporation,,,0,0,Seasonal
+-181316897,SHM,201,8,Summer heat:moisture index,((MWMT)/(MSP/1000)),,0,0,Seasonal
+-177734827,Eref07,133,213,Hargreaves reference evaporation,July,,0,0,Monthly
+-154721952,DD_18_10,88,168,Degree-days below 18 deg C,October (mm),heating degree-days ,0,0,Monthly
+-122657245,Rad05,223,127,Radiation,May(MJ m-2d-1),,0,0,Monthly
+-117028655,NFFD03,105,185,the number of frost-free days,March,,0,0,Monthly
+-111245638,Tmin12,42,110,Temperature min,December ( deg C),,0,0,Monthly
+-105806971,DD_18_07,85,165,Degree-days below 18 deg C,July (mm),heating degree-days ,0,0,Monthly
+-80863481,Tmin_wt,155,31,Winter min. temperature ( deg C),,,0,0,Seasonal
+-75169960,CMD,213,21,Hargreaves climatic moisture deficit,,,0,0,
+-74358757,PAS05,119,199,Precipitation as snow (prev August - current July),May (mm),,0,0,Monthly
+-44154374,DD5_at,174,50,Fall Degree-days above 5 deg C,growing degree-days,,0,0,Seasonal
+-36462408,DD_18_sp,176,52,Spring Degree-days below 18 deg C,heating degree-days,,0,0,Seasonal
+-33000584,PPT02,44,112,Precipitation,February (mm),,0,0,Monthly
+-12712939,Tave_sm,161,25,Summer average temperature ( deg C),,,0,0,Seasonal
+-879433,RH05,239,235,Relative humidity,May,,0,0,Monthly
+3560850,DD18_12,102,182,Degree-days above 18 deg C,December (mm),cooling degree-days,0,0,Monthly
+33554750,NFFD_at,186,62,Fall frost-free days,,,0,0,Seasonal
+98408214,AHM,200,7,Annual heat:moisture index,(MAT+10)/(MAP/1000)),,0,0,Annual
+104491243,PPT09,51,119,Precipitation,September (mm),,0,0,Monthly
+104759143,NFFD05,107,187,the number of frost-free days,May,,0,0,Monthly
+115338036,DD_0,202,9,Degree-days below 0 deg C,chilling degree-days,,0,0,Annual
+118435720,DD_18_02,80,160,Degree-days below 18 deg C,February (mm),heating degree-days ,0,0,Monthly
+159792394,CMD04,142,222,Hargreaves climatic moisture deficit ,April,,0,0,Monthly
+162427801,RH11,245,241,Relative humidity,November,,0,0,Monthly
+184355321,DD_0_11,65,145,Degree-days below 0 deg C,November (mm),chilling degree-days,0,0,Monthly
+185027584,DD_0_02,56,136,Degree-days below 0 deg C,February (mm),chilling degree-days,0,0,Monthly
+239175152,Tmax02,20,88,Temperature max,February ( deg C),,0,0,Monthly
+255517961,Rad07,225,129,Radiation,July (MJ m-2d-1),,0,0,Monthly
+266942003,RH09,243,239,Relative humidity,September,,0,0,Monthly
+298448204,Tave02,8,76,Temperature avg,February ( deg C),,0,0,Monthly
+302777821,PAS11,125,205,Precipitation as snow (prev August - current July),November (mm),,0,0,Monthly
+313619215,Tave09,15,83,Temperature avg,September ( deg C),,0,0,Monthly
+324559159,Tmin09,39,107,Temperature min,September ( deg C),,0,0,Monthly
+371620206,RH_at,231,74.4,Relative humidity,autumn,,0,0,Seasonal
+415614950,RH12,246,242,Relative humidity,December,,0,0,Monthly
+432813862,DD18_08,98,178,Degree-days above 18 deg C,August (mm),cooling degree-days,0,0,Monthly
+469821303,DD5_wt,171,47,Winter degree-days above 5 deg C,growing degree-days,,0,0,Seasonal
+474154502,Tave08,14,82,Temperature avg,August ( deg C),,0,0,Monthly
+476023529,DD_18_03,81,161,Degree-days below 18 deg C,March (mm),heating degree-days ,0,0,Monthly
+531179585,RH_sm,232,74.3,Relative humidity,summer,,0,0,Seasonal
+544233720,RH10,244,240,Relative humidity,October,,0,0,Monthly
+546149225,PPT_sm,165,37,Summer precipitation (mm),,,0,0,Seasonal
+552897979,DD_0_wt,167,43,Winter Degree-days below 0 deg C,chilling degree-days,,0,0,Seasonal
+584423382,CMD_at,198,70,Fall Hargreaves climatic moisture deficit,,,0,0,Seasonal
+584822569,Tmax11,29,97,Temperature max,November ( deg C),,0,0,Monthly
+600961069,Rad03,221,125,Radiation,March(MJ m-2d-1),,0,0,Monthly
+607090388,CMD10,148,228,Hargreaves climatic moisture deficit ,October,,0,0,Monthly
+614539086,RH04,238,234,Relative humidity,April,,0,0,Monthly
+617033709,NFFD07,109,189,the number of frost-free days,July,,0,0,Monthly
+660495147,NFFD_wt,183,59,Winter frost-free days,,,0,0,Seasonal
+671372711,Rad01,219,123,Radiation,January(MJ m-2d-1),,0,0,Monthly
+680945294,DD_18_12,90,170,Degree-days below 18 deg C,December (mm),heating degree-days ,0,0,Monthly
+682604389,PAS03,117,197,Precipitation as snow (prev August - current July),March (mm),,0,0,Monthly
+699754086,PPT04,46,114,Precipitation,April (mm),,0,0,Monthly
+701917934,PAS08,122,202,Precipitation as snow (prev August - current July),August (mm),,0,0,Monthly
+722310037,DD5_03,69,149,Degree-days above 5 deg C,March (mm),growing degree-days,0,0,Monthly
+725271759,DD5_01,67,147,Degree-days above 5 deg C,January (mm),growing degree-days,0,0,Monthly
+727460951,Tave01,7,75,Temperature avg,January ( deg C),,0,0,Monthly
+732762149,DD5,203,10,Degree-days above 5 deg C,growing degree-days,,0,0,Annual
+735718193,Tmax03,21,89,Temperature max,March ( deg C),,0,0,Monthly
+810970574,Tmin08,38,106,Temperature min,August ( deg C),,0,0,Monthly
+814297939,Eref01,127,207,Hargreaves reference evaporation,January,,0,0,Monthly
+871799124,Tmin02,32,100,Temperature min,February ( deg C),,0,0,Monthly
+934191278,bFFP,207,15,Julian date on which FFP begins,,,0,0,
+942121398,CMD08,146,226,Hargreaves climatic moisture deficit ,August,,0,0,Monthly
+976032898,DD_18,204,11,Degree-days below 18 deg C,heating degree-days,,0,0,Annual
+1027383350,Tmax12,30,98,Temperature max,December ( deg C),,0,0,Monthly
+1087716427,Tmax_wt,151,27,Winter max. temperature ( deg C),,,0,0,Seasonal
+1101891095,DD_0_05,59,139,Degree-days below 0 deg C,May (mm),chilling degree-days,0,0,Monthly
+1106941848,Eref02,128,208,Hargreaves reference evaporation,February,,0,0,Monthly
+1116787594,Tmax08,26,94,Temperature max,August ( deg C),,0,0,Monthly
+1177443346,DD18_at,182,58,Fall Degree-days above 18 deg C,cooling degree-days,,0,0,Seasonal
+1183134016,RH_sp,233,74.2,Relative humidity,spring,,0,0,Seasonal
+1211864292,Tave_sp,160,24,Spring average temperature ( deg C),,,0,0,Seasonal
+1218478252,Tmin10,40,108,Temperature min,October ( deg C),,0,0,Monthly
+1254527678,NFFD04,106,186,the number of frost-free days,April,,0,0,Monthly
+1277700170,DD5_12,78,158,Degree-days above 5 deg C,December (mm),growing degree-days,0,0,Monthly
+1279591819,Eref09,135,215,Hargreaves reference evaporation,September,,0,0,Monthly
+1282274813,DD18_03,93,173,Degree-days above 18 deg C,March (mm),cooling degree-days,0,0,Monthly
+1283810856,Rad06,224,128,Radiation,June(MJ m-2d-1),,0,0,Monthly
+1299575967,Rad_wt,218,71,Winter solar radiation(MJ m-2d-1),,,0,0,Seasonal
+1301194400,Tmin06,36,104,Temperature min,June ( deg C),,0,0,Monthly
+1303867928,Tave06,12,80,Temperature avg,June ( deg C),,0,0,Monthly
+1316029154,PAS_at,190,42,Fall precipitation as snow,,,0,0,Seasonal
+1328073395,PPT01,43,111,Precipitation,January (mm),,0,0,Monthly
+1328074928,DD5_06,72,152,Degree-days above 5 deg C,June (mm),growing degree-days,0,0,Monthly
+1332190622,Tmax04,22,90,Temperature max,April ( deg C),,0,0,Monthly
+1368937798,RH,230,22.5,Relative humidity,,,0,0,
+1370148593,DD5_07,73,153,Degree-days above 5 deg C,July (mm),growing degree-days,0,0,Monthly
+1405553185,Tmin07,37,105,Temperature min,July ( deg C),,0,0,Monthly
+1409701471,Rad09,227,131,Radiation,September(MJ m-2d-1),,0,0,Monthly
+1417091164,Rad02,220,124,Radiation,February(MJ m-2d-1),,0,0,Monthly
+1431844083,DD_18_wt,175,51,Winter Degree-days below 18 deg C,heating degree-days,,0,0,Seasonal
+1436690664,NFFD10,112,192,the number of frost-free days,October,,0,0,Monthly
+1446178588,NFFD06,108,188,the number of frost-free days,June,,0,0,Monthly
+1452839001,DD_18_sm,177,53,Summer Degree-days below 18 deg C,heating degree-days,,0,0,Seasonal
+1457314672,Eref10,136,216,Hargreaves reference evaporation,October,,0,0,Monthly
+1466542812,MAT,4,1,Annual temperature( deg C),,,1,0,Annual
+1476743105,PAS07,121,201,Precipitation as snow (prev August - current July),July (mm),,0,0,Monthly
+1511596147,DD18_05,95,175,Degree-days above 18 deg C,May (mm),cooling degree-days,0,0,Monthly
+1546478440,CMD_sp,196,68,Spring Hargreaves climatic moisture deficit,,,0,0,Seasonal
+1552015459,CMD_wt,195,67,Winter Hargreaves climatic moisture deficit,,,0,0,Seasonal
+1559151889,PPT11,53,121,Precipitation,November (mm),,0,0,Monthly
+1576612529,Eref11,137,217,Hargreaves reference evaporation,November,,0,0,Monthly
+1584408315,RH01,235,231,Relative humidity,January,,0,0,Monthly
+1600191891,DD_0_09,63,143,Degree-days below 0 deg C,September (mm),chilling degree-days,0,0,Monthly
+1603858206,Eref12,138,218,Hargreaves reference evaporation,December,,0,0,Monthly
+1624666221,Eref_sm,193,65,Summer Hargreaves reference evaporation,,,0,0,Seasonal
+1629121477,Tmin03,33,101,Temperature min,March ( deg C),,0,0,Monthly
+1666623386,EXT,211,19,Extreme max. temperature,over 30 years,,0,0,
+1673614758,DD_18_at,178,54,Fall Degree-days below 18 deg C,heating degree-days,,0,0,Seasonal
+1701590685,EMT,210,18,Extreme min. temperature,over 30 years,,0,0,
+1755159650,DD_18_08,86,166,Degree-days below 18 deg C,August (mm),heating degree-days ,0,0,Monthly
+1756310024,PPT_sp,164,36,Spring precipitation (mm),,,0,0,Seasonal
+1760801066,Eref_at,194,66,Fall Hargreaves reference evaporation,,,0,0,Seasonal
+1776445021,Tave03,9,77,Temperature avg,March ( deg C),,0,0,Monthly
+1784849391,PPT05,47,115,Precipitation,May (mm),,0,0,Monthly
+1818253462,Rad08,226,130,Radiation,August(MJ m-2d-1),,0,0,Monthly
+1833882226,Tave12,18,86,Temperature avg,December ( deg C),,0,0,Monthly
+1867559844,Tave10,16,84,Temperature avg,October ( deg C),,0,0,Monthly
+1883349193,NFFD11,113,193,the number of frost-free days,November,,0,0,Monthly
+1919855587,NFFD09,111,191,the number of frost-free days,September,,0,0,Monthly
+1937148084,Rad10,228,132,Radiation,October(MJ m-2d-1),,0,0,Monthly
+1940373413,Rad11,229,133,Radiation,November(MJ m-2d-1),,0,0,Monthly
+1949861843,Tave05,11,79,Temperature avg,May ( deg C),,0,0,Monthly
+1954307104,RH02,236,232,Relative humidity,February,,0,0,Monthly
+1964397128,CMD06,144,224,Hargreaves climatic moisture deficit ,June,,0,0,Monthly
+1965870280,Tmax10,28,96,Temperature max,October ( deg C),,0,0,Monthly
+1973462918,Eref04,130,210,Hargreaves reference evaporation,April,,0,0,Monthly
+1975238204,Tmin_sp,156,32,Spring  min. temperature ( deg C),,,0,0,Seasonal
+1984402256,PPT10,52,120,Precipitation,October (mm),,0,0,Monthly
+1986137156,DD18_sp,180,56,Spring Degree-days above 18 deg C,cooling degree-days,,0,0,Seasonal
+2022915958,PPT_at,166,38,Fall precipitation (mm),,,0,0,Seasonal
+2042442020,Eref06,132,212,Hargreaves reference evaporation,June,,0,0,Monthly
+2050869700,DD18_10,100,180,Degree-days above 18 deg C,October (mm),cooling degree-days,0,0,Monthly
+2062216706,Rad12,230,134,Radiation,December(MJ m-2d-1),,0,0,Monthly
+2069203954,Eref08,134,214,Hargreaves reference evaporation,August,,0,0,Monthly
+2075199413,PPT07,49,117,Precipitation,July (mm),,0,0,Monthly
+2090761322,MCMT,6,3,Mean coldest month( deg C),,,1,0,Monthly
+2123389953,DD_0_03,57,137,Degree-days below 0 deg C,March (mm),chilling degree-days,0,0,Monthly
