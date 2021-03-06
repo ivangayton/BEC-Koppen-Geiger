@@ -6,7 +6,7 @@ This is a [Jupyter Notebook](https://jupyter.org/) with some Python code to clas
 It basically works by ingesting climate data (series of temperature and precipitation levels) and applying a series of flowchart/key decisions based on criteria from the published Köppen-Geiger classification system. For each discrete set of climate data (each representing, presumably, a given biogeoclimatic zone) it returns a two or three-letter code representing the Köppen-Geiger class.
 
 ## Ok, how do I use it?
-The fastest way to figure out what is going on here is to [read the output by clicking on this link](BGC_to_Koppen-Geiger.html)
+The fastest way to figure out what is going on here is to [read the output by clicking on this link](https://ivangayton.github.io/)
 
 That output (and this is the cool thing about Jupyter Notebooks) is basically the actual working code embedded in a narrative report, with visualizations of the output baked in.
 
